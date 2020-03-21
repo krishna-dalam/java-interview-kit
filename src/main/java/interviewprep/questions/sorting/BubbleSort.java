@@ -1,4 +1,4 @@
-package interviewprep.questions;
+package interviewprep.questions.sorting;
 
 import java.util.*;
 
